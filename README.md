@@ -1,7 +1,6 @@
 <h1> Olá :)</h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=thierryvil.thierryvil)
 
 </p>
 <div size='20px'> Meu nome é Thierry Tajes dos Santos.<br/>

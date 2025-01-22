@@ -1,6 +1,6 @@
 ### Hey!<br>
-Desenvolvedor Backend com 3+ anos de estudo, 1+ ano trabalhando profissionalmente.
-Formado em Análise e Desenvolvimento de Sistemas pela Universidade Pitágoras do Paraná.
+Desenvolvedor Backend com 3+ anos de experiência na área.
+Pós Graduado em Engenharia de Software pela PUC Minas.
 
 Apaixonado por tecnologia e seus mistérios, ficou deslumbrando com esse mundo ainda criança, onde viu que era possível construir softwares apenas pesquisando e baixando apostilas em pdf.
 
